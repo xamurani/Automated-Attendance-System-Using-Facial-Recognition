@@ -196,5 +196,4 @@ Pandas: For data manipulation and analysis.
 
 Tkinter: For the GUI toolkit.
 
-Feel free to customize this README to better fit your project's specifics and to add any additional information that might be helpful for users.
 
